@@ -192,7 +192,7 @@ h2 {
 
 .btn-primary {
   color: #ffffff;
-  background: linear-gradient(135deg, var(--cyan), var(--violet));
+  background: linear-gradient(135deg, #27b9da, #6f63ff);
   box-shadow: 0 12px 28px rgba(30, 185, 211, 0.18);
 }
 
@@ -381,5 +381,8 @@ h2 {
 
   .btn {
     width: 100%;
+  }
+}
+100%;
   }
 }
